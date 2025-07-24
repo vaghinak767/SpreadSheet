@@ -1,5 +1,5 @@
-#ifndef spreadSheet_H
-#define spreadSheet_H
+#ifndef SpreadSheet_H
+#define SpreadSheet_H
 #include "cell.h"
 #include <iostream>
 #include <vector>
